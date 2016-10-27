@@ -1,0 +1,1 @@
+En multiples ocasiones se necesita analizar las cadenas a nivel de bit y no como codificaciones de un número en un sistema numérico. Para tal fin se utilizan las **máscaras**
