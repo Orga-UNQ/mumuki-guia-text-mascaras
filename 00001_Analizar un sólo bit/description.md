@@ -32,22 +32,21 @@ Para esto es necesario incorporar a nuestra arquitectura, 3 operaciones lógicas
     <th class="tg-7geq">Efecto </th>
   </tr>
   <tr>
-    <td class="tg-quxf">AND</td>
-    <td class="tg-quxf">2 operandos </td>
-    <td class="tg-quxf">0100 </td>
-    <td class="tg-quxf">Dest=Dest and Origen </td>
-  </tr>
-  <tr>
     <td class="tg-baqh">OR</td>
     <td class="tg-baqh">2 operandos</td>
     <td class="tg-baqh">0101</td>
     <td class="tg-baqh">Dest=Dest or Origen </td>
   </tr>
   <tr>
-    <td class="tg-sh4c">NOT</td>
-    <td class="tg-sh4c">1 operando destino</td>
-    <td class="tg-sh4c">1001</td>
-    <td class="tg-sh4c">Dest = not Dest </td>
+    <td class="tg-baqh">NOT</td>
+    <td class="tg-baqh">1 operando destino</td>
+    <td class="tg-baqh">1001</td>
+    <td class="tg-baqh">Dest = not Dest </td>
+  </tr> <tr>
+    <td class="tg-baqh">AND</td>
+    <td class="tg-baqh">2 operandos </td>
+    <td class="tg-baqh">0100 </td>
+    <td class="tg-baqh">Dest=Dest and Origen </td>
   </tr>
 </table>
 
